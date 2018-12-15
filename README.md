@@ -2,8 +2,8 @@
 Bomberman game programmed in assembly language
 
 CONTROLS:
-Arrow keys - move
-B button - drop bomb
+\nArrow keys - move
+\nB button - drop bomb
 
 TO RUN:
 Open the MARS jar file, and then open the bomberpixel.asm file.
